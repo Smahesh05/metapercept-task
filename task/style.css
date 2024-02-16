@@ -1,0 +1,22 @@
+.section-1 {
+  height: 200px;
+  color: white;
+  width: 100%;
+  background: linear-gradient(to right, #11c8f4, #684db6);
+}
+
+.card-list {
+  display: flex;
+  justify-content: center;
+}
+
+.footer {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card {
+  padding: 0;
+}
